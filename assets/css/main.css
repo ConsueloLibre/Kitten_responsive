@@ -1,0 +1,47 @@
+
+#first{
+  background-image: url(../images/sunny-day.jpg);
+  height: 650px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+  img {
+    width: 100%;
+}
+.cat{
+  float:none !important;
+  position: absolute;
+  bottom: 5%;
+  right: 25%;
+}
+  /*section#first{
+  background-image: url(../images/sunny-day.jpg);
+  height: 600px;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+img {
+    margin-top: 284px;
+    margin-left: 218px;
+}*/
+/*section#second{
+  background-image: url(../images/night.jpg);
+  height: 600px;
+  background-repeat: no-repeat;
+  background-size: 100
+
+}*/
+/*img.noche {
+    margin-left: 318px;
+    margin-top: 245px;
+}
+section#third{
+  background-image: url(../images/dawn.png);
+  height: 600px;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+img.noche {
+    margin-left: 81px;
+    margin-top: 250px;
+}*/
